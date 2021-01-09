@@ -8,7 +8,7 @@ coming soon
 
 # Documentation
 
-coming soon ish
+Documentation can be found [here](https://spu7nix.net/spwn/#/)
 
 # Todo before release:
 
